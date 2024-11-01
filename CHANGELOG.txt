@@ -1,0 +1,7 @@
+== Changelog ==
+= 1.0.1
+* Fix: Minor issues
+* Fix: WooCommerce dependency
+
+= 1.0.0 =
+* Initial

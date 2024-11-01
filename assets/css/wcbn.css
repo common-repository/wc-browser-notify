@@ -1,0 +1,30 @@
+#notify-trigger-box-sortables {
+    margin-top: 20px;
+}
+#wcbn-trigger-notify {
+    margin-top: 0;
+}
+#wcbn-trigger-notify label {
+    margin-right: 5px;
+    float: left;
+    width: 100%;
+	color: #777;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.wcbn-hide {
+	display:none;
+} 
+#notify-popup-wrap label {
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 6px;
+    color: #777;
+}
+#wcbn-trigger-notify optgroup, #notify-popup-wrap option{
+    background: #fafafa;
+}
+#wcbn-trigger-notify optgroup option:hover {
+    background: #eee; 
+}
